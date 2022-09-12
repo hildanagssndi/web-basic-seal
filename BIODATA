@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Hai!, Saya Hildan Agussandi </h2>
+<img src="myimage.jpg" width="300px"></br>
+
+<h2> Tentang Saya </h2>
+<p> Hi! saya adalah Mahasiswa semester 5 dari Sekolah Tinggi Teknologi Bandung, Prodi Teknik Informatika. 
+Saya aktif di Organisasi dan menjadi Ketua Umum UKM Music Society STT Bandung Periode 2021-2022. </p>
+
+<h2> Keahilan Saya yaitu </h2>
+
+<ul>
+	<li>Basic Coding</li>
+	<li>Public Speaking</li>
+	<li>Sports and Music</li>
+</ul>
+
+<h2> Saya memiliki Pengalaman Organisasi, diantaranya : </h2>
+
+<ol>
+	<li>Wakil Ketua Umum 1 SMPN 2 SUMBER</li>
+	<li>Wakil Ketua Umum 2 SMKS Manba'ul 'Ulum</li>
+	<li>Koordinator Wilayah Tengah Forum OSIS Kabupaten Cirebon</li>
+	<li>Koordinator Wilayah Daerah Forum OSIS Jawa Barat</li>
+	<li>Ketua Umum UKM Music Society STT Bandung (Sekarang)</li>
+</ol>
+
+<h2> Yuk berteman dengan saya! </h2>
+<a href="https://www.linkedin.com/in/hildan-agussandi-4026b420a/"> My LinkedIn</a>
+<a href="https://www.instagram.com/hildanagssndi/"> My Instagram</a>
+
+</body>
+</html>
